@@ -12,3 +12,4 @@
 ⚡ Pure HTML/CSS/JS - No frameworks required
 
 # ‼️ also notice thats the antivirus proggram gonna be angry at the file because of exe's But its false positive, the apis are taken of Velocity executor.
+_🥳 happy exploiting fella
